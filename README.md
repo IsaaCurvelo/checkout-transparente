@@ -13,7 +13,7 @@ Aplicação utilizando Spring Boot, MySQL, JPA e Hibernate.
 **1. Clone a aplicação**
 
 ```bash
-git clone https://github.com/imcurvelo/checkout-transparente.git
+git clone https://github.com/IsaaCurvelo/checkout-transparente.git
 ```
 
 
